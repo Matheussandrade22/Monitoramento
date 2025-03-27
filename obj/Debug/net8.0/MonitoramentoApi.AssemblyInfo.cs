@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonitoramentoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5add92e76d3bdd43507f5fee2796cff3283d3e74")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonitoramentoApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonitoramentoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
